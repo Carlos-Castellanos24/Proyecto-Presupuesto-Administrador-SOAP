@@ -12,8 +12,8 @@ span{
     font-family: monospace;
     white-space: nowrap;
     border-right: 4px solid;
-    width: 18ch;
-    animation: typing 2s steps(12),
+    width: 26ch;
+    animation: typing 2s steps(20),
         blink .5s infinite step-end alternate;
     overflow: hidden;  
     color: white;
